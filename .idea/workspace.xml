@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="360b0bf9-761b-4bc0-a6b7-f15c33238060" name="Changes" comment="改成人物信息管理">
-      <change afterPath="$PROJECT_DIR$/.idea/management.iml" afterDir="false" />
-    </list>
+    <list default="true" id="360b0bf9-761b-4bc0-a6b7-f15c33238060" name="Changes" comment="改成人物信息管理" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +72,7 @@
       <workItem from="1702797940789" duration="312000" />
       <workItem from="1702798891518" duration="16614000" />
       <workItem from="1702825459159" duration="164000" />
-      <workItem from="1702825949915" duration="728000" />
+      <workItem from="1702825949915" duration="1033000" />
     </task>
     <task id="LOCAL-00001" summary="改成人物信息管理">
       <option name="closed" value="true" />
@@ -116,7 +114,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702824220723</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="改成人物信息管理">
+      <option name="closed" value="true" />
+      <created>1702826695559</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702826695559</updated>
+    </task>
+    <task id="LOCAL-00007" summary="改成人物信息管理">
+      <option name="closed" value="true" />
+      <created>1702826791662</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702826791662</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
